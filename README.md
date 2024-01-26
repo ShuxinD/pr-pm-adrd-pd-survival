@@ -18,7 +18,7 @@ survival analysis: follow every beneficiaries until their first hospitalizaiton 
 
 ### statistical approach
 
-Cox proportional hazard
+Cox proportional hazard with causal mediation analysis framework
 
 ## coding process
 
