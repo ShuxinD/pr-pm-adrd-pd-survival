@@ -1,4 +1,4 @@
-# The association between PR, PM and first hospitalization with ADRD
+# The association between PR, PM and first hospitalization with ADRD / PD
 
 ### study population
 
